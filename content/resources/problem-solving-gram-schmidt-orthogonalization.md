@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Orthogonal Matrices and Gram-Schmidt
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Problem Solving: Gram-Schmidt Orthogonalization'
 uid: 12bacd0a-7df9-3732-00c2-592939c97906

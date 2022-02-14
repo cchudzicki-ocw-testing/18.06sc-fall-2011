@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Similar Matrices and Jordan Form
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Problem Solving: Similar Matrices'
 uid: 30230dff-522f-6273-7c2d-c3a8698cbeaf

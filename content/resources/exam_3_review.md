@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Exam 3 Review
+parent_type: CourseSection
 resourcetype: Image
 title: Exam_3_Review.jpg
+type: OCWImage
 uid: 9c2e31b4-d527-feed-3d7e-6686c8368b80
 ---

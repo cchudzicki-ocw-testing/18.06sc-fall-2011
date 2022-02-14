@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: An Overview of Key Ideas
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: An Overview of Linear Algebra
 uid: bcc8464e-54a4-c64f-21bd-78a3d6b74941

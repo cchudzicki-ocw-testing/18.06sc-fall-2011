@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Markov Matrices; Fourier Series
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Problem Solving: Markov Matrices'
 uid: 95b689b2-2df5-ad61-0897-6c40b92a97ac

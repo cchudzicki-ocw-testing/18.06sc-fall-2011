@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
 uid: a73ef3ee-3497-e94a-9262-b1aca38a1143

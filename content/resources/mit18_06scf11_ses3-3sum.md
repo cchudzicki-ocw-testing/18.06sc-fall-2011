@@ -4,7 +4,11 @@ description: This resource contains information related to positive definite mat
   and minima.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/d163e012754258d3b374548504d8a18a_MIT18_06SCF11_Ses3.3sum.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Positive Definite Matrices and Minima
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.3sum.pdf
+type: OCWFile
 uid: d163e012-7542-58d3-b374-548504d8a18a
 ---

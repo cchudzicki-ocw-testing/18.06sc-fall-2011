@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Symmetric Matrices and Positive Definiteness
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Problem Solving: Symmetric Matrices and Positive Definiteness'
 uid: 4deb39e1-b021-2c70-668c-7976e1cc8248

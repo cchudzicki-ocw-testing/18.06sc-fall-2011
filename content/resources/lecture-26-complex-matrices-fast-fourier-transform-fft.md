@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Complex Matrices; Fast Fourier Transform (FFT)
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 26: Complex Matrices; Fast Fourier Transform (FFT)'
 uid: 7ffddf2f-88df-338a-28be-a4426a0b7093

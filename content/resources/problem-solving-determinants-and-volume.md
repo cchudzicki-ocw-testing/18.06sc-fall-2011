@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Cramer's Rule, Inverse Matrix and Volume
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Problem Solving: Determinants and Volume'
 uid: f6e781f0-de7c-94d0-b9ce-c28358af07e2

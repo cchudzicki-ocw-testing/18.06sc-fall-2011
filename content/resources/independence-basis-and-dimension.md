@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Independence, Basis and Dimension
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Independence, Basis and Dimension
 uid: 0527d1f2-fcfb-f6a1-f249-3d724180b490

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Transposes, Permutations, Vector Spaces
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Subspaces of Three Dimensional Space
 uid: b3714d52-ef94-3390-d8d6-b490460f96a9

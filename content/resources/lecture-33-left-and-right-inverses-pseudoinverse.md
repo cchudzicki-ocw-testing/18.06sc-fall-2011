@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Left and Right Inverses; Pseudoinverse
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 33: Left and Right Inverses; Pseudoinverse'
 uid: 7b7a7cf8-c323-0884-3dfb-adde6278babe

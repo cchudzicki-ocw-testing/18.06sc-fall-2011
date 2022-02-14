@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/4dd50ecd7a2d1cd73548e75ac27f47ce_FzncDO1eSNI.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 4dd50ecd-7a2d-1cd7-3548-e75ac27f47ce
 ---

@@ -4,7 +4,11 @@ description: This resource contains problem set related to differential equation
   and exp(At).
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/be691a8976e7e7b946834654669c24d7_MIT18_06SCF11_Ses2.10prob.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Differential Equations and exp(At)
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.10prob.pdf
+type: OCWFile
 uid: be691a89-76e7-e7b9-4683-4654669c24d7
 ---

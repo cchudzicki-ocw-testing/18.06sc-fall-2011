@@ -4,7 +4,11 @@ description: This resource contains solution to the problem sets related to inde
   basis, and dimension.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/793cbea8c118cf3b30ba2944a5c61dee_MIT18_06SCF11_Ses1.9sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Independence, Basis and Dimension
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.9sol.pdf
+type: OCWFile
 uid: 793cbea8-c118-cf3b-30ba-2944a5c61dee
 ---

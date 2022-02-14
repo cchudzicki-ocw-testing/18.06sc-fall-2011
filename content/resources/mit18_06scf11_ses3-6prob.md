@@ -4,7 +4,11 @@ description: This resource contains problem set related to linear transformation
   and their matrices.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/8e710a09fcfdfd7994083468222efea9_MIT18_06SCF11_Ses3.6prob.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Linear Transformations and their Matrices
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.6prob.pdf
+type: OCWFile
 uid: 8e710a09-fcfd-fd79-9408-3468222efea9
 ---

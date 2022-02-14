@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Graphs, Networks, Incidence Matrices
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Graphs and Networks
 uid: 5b238858-f518-3c52-7f69-30c22eead0a5

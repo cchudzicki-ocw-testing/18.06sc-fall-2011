@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: martina_photo.jpg
+type: OCWImage
 uid: ec0216b8-40a3-d002-7620-1e9b320d4f22
 ---

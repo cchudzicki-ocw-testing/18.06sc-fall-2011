@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Solving Ax = b: Row Reduced Form R'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Solving Ax = b: Row Reduced Form R'
 uid: a2acf17d-7856-1e52-4b0f-f9919ff2c261

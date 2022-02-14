@@ -4,7 +4,11 @@ description: This resource contains information related to solving Ax = b and ro
   reduced form R.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/f5a74578196a8afc2fd2ba8581acb17f_MIT18_06SCF11_Ses1.8sum.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Solving Ax = b: Row Reduced Form R'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.8sum.pdf
+type: OCWFile
 uid: f5a74578-196a-8afc-2fd2-ba8581acb17f
 ---

@@ -4,7 +4,11 @@ description: This resource contains solution to problem set related to complex m
   fast fourier transform (FFT).
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/37617dbf24875b2dfaac3e46e6305773_MIT18_06SCF11_Ses3.2sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Complex Matrices; Fast Fourier Transform (FFT)
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.2sol.pdf
+type: OCWFile
 uid: 37617dbf-2487-5b2d-faac-3e46e6305773
 ---

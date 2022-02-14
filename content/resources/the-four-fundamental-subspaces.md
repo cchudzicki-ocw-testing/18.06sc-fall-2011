@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: The Four Fundamental Subspaces
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: The Four Fundamental Subspaces
 uid: 03148065-ca2a-6020-bc7f-f5527c47b191

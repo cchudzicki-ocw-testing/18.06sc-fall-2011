@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Matrix Spaces; Rank 1; Small World Graphs
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Matrix Spaces
 uid: d3632ad4-c876-cabb-2cd7-e4e2c0ce0c5a

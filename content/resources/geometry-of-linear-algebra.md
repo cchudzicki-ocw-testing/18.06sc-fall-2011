@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: The Geometry of Linear Equations
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Geometry of Linear Algebra
 uid: 5d67c178-9fbb-d976-2ef2-21fac0f60426

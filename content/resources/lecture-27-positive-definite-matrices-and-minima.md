@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Positive Definite Matrices and Minima
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 27: Positive Definite Matrices and Minima'
 uid: c835d375-87b4-9f8b-6978-285cdb7b4ad2

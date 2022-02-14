@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: d8efae91-2fd6-02f9-ac2e-2cb9d064d22e
 title: Meet the TAs
+type: CourseSection
 uid: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
 ---
 

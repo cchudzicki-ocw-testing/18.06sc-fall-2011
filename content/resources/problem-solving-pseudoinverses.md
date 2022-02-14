@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Left and Right Inverses; Pseudoinverse
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Problem Solving: Pseudoinverses'
 uid: 420242da-881e-acaa-76fb-5fbc624a6bdf

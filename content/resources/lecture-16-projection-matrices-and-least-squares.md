@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projection Matrices and Least Squares
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Projection Matrices and Least Squares'
 uid: 983528fc-6ab8-4907-7d5b-e1252652f08e

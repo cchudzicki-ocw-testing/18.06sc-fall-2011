@@ -4,7 +4,11 @@ description: This resource contains solution to the problem sets related to mult
   and inverse matrices.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/d2dc903ca48f3d1ffa1528abde719c94_MIT18_06SCF11_Ses1.3sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Multiplication and Inverse Matrices
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.3sol.pdf
+type: OCWFile
 uid: d2dc903c-a48f-3d1f-fa15-28abde719c94
 ---

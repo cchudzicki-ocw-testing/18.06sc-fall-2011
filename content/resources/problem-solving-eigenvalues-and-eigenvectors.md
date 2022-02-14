@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Eigenvalues and Eigenvectors
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Problem Solving: Eigenvalues and Eigenvectors'
 uid: 787e0f96-696d-be97-e7fa-e15700a5a92d

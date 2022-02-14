@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Exam 3
+parent_type: CourseSection
 resourcetype: Image
 title: Exam_3.jpg
+type: OCWImage
 uid: 33cadc81-b4b3-88da-0a11-1af7336a2561
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Orthogonal Vectors and Subspaces
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Orthogonal Vectors and Subspaces
 uid: 0e13cc7d-5423-44b5-2333-ffe442deb35e
