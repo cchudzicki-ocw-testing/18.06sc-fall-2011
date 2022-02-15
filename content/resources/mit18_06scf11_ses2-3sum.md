@@ -5,6 +5,7 @@ description: This resource contains information related to projection matrices a
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/198bde3a6536b62989b6cc09495575c1_MIT18_06SCF11_Ses2.3sum.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Projection Matrices and Least Squares
 parent_type: CourseSection
 resourcetype: Document

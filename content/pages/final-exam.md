@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: Final Exam
 uid: 7aadf934-9df8-d886-6462-55a5ab83e424
 ---

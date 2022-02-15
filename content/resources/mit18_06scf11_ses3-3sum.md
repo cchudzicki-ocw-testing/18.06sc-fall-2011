@@ -5,6 +5,7 @@ description: This resource contains information related to positive definite mat
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/d163e012754258d3b374548504d8a18a_MIT18_06SCF11_Ses3.3sum.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Positive Definite Matrices and Minima
 parent_type: CourseSection
 resourcetype: Document

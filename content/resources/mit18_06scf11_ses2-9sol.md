@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to diagonali
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/b7f1b40a20430a1fa7222bdfa8daa126_MIT18_06SCF11_Ses2.9sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Diagonalization and Powers of A
 parent_type: CourseSection
 resourcetype: Document

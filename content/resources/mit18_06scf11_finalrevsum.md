@@ -4,6 +4,7 @@ description: This resource contains information related to final course review.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/89e753b45eed437828821e585bed0e59_MIT18_06SCF11_FinalRevsum.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Final Course Review
 parent_type: CourseSection
 resourcetype: Document

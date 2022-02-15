@@ -4,6 +4,7 @@ description: This resource contains problem set related to final exam.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/245582e7bf822b1a99289385d4b1fe1c_MIT18_06SCF11_final_ex.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document

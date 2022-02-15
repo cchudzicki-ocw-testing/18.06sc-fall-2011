@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to singular 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/6c64bb0a0ede9ba88977078db4563ea0_MIT18_06SCF11_Ses3.5sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Singular Value Decomposition
 parent_type: CourseSection
 resourcetype: Document

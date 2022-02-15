@@ -5,6 +5,7 @@ description: This resource contains information related to independence, basis, 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/0bbc30e3f1d7933ea07a2d2e9ab050d9_MIT18_06SCF11_Ses1.9sum.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Independence, Basis and Dimension
 parent_type: CourseSection
 resourcetype: Document

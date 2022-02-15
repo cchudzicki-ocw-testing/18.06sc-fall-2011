@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to determina
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/022524a65ff095097fdce7857c87bedf_MIT18_06SCF11_Ses2.6sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Determinant Formulas and Cofactors
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: This resource contains information related to projections onto subs
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/00e9c8f0eafedeab21a3d079a17ed3d8_MIT18_06SCF11_Ses2.2sum.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Projections onto Subspaces
 parent_type: CourseSection
 resourcetype: Document

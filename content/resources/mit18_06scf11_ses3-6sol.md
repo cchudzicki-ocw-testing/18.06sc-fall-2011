@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to linear tr
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/7fef2f26857398d5a96029f416f07261_MIT18_06SCF11_Ses3.6sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Linear Transformations and their Matrices
 parent_type: CourseSection
 resourcetype: Document

@@ -5,6 +5,7 @@ description: This resource contains problem set related to symmetric matrices an
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/29d9e3260562a0125d27537cb6baf3d0_MIT18_06SCF11_Ses3.1prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Symmetric Matrices and Positive Definiteness
 parent_type: CourseSection
 resourcetype: Document

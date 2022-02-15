@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to eigenvalu
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/a5b090d92c330788febc5b2092906af9_MIT18_06SCF11_Ses2.8sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Eigenvalues and Eigenvectors
 parent_type: CourseSection
 resourcetype: Document

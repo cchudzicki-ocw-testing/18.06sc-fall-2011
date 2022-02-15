@@ -5,6 +5,7 @@ description: This resource contains problem set related to similar matrices and 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/d3ee9566462755a67ad9d3af243cd17a_MIT18_06SCF11_Ses3.4sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Similar Matrices and Jordan Form
 parent_type: CourseSection
 resourcetype: Document

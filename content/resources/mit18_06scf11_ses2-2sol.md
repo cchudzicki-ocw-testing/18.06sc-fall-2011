@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to projectio
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/6b76996d7b439496fa84345340096418_MIT18_06SCF11_Ses2.2sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Projections onto Subspaces
 parent_type: CourseSection
 resourcetype: Document

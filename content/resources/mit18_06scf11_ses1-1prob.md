@@ -5,6 +5,7 @@ description: This resource contains problem sets related to the geometry of line
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/f511d20996159f321b6704f5b2070e04_MIT18_06SCF11_Ses1.1prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: The Geometry of Linear Equations
 parent_type: CourseSection
 resourcetype: Document

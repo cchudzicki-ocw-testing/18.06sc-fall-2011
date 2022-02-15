@@ -5,6 +5,7 @@ description: This resource contains solution to problem set related to orthogona
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/05fd63b14b76d5ad7ce9cee1ee16186c_MIT18_06SCF11_Ses2.1sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Orthogonal Vectors and Subspaces
 parent_type: CourseSection
 resourcetype: Document
