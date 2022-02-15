@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Factorization into A = LU
-type: CourseSection
 uid: 2817c81b-0904-0d03-c0c6-34f006d5a20d
 ---
 

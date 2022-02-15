@@ -5,7 +5,6 @@ parent_title: 'Unit III: Positive Definite Matrices and Applications'
 parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Singular Value Decomposition
-type: CourseSection
 uid: 30164ec6-9f85-8d02-0a13-78d8b9c366fe
 ---
 

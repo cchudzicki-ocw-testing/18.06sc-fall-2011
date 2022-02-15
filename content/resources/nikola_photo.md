@@ -12,6 +12,5 @@ parent_title: Meet the TAs
 parent_type: CourseSection
 resourcetype: Image
 title: Nikola_photo.jpg
-type: OCWImage
 uid: 1eca782a-385e-99a6-da5d-1bd372d21aae
 ---

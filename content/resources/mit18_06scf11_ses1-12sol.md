@@ -9,6 +9,5 @@ parent_title: Graphs, Networks, Incidence Matrices
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.12sol.pdf
-type: OCWFile
 uid: 1bbfcb71-8126-a0a8-ef87-55b84922c536
 ---

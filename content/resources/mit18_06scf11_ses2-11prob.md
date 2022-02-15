@@ -9,6 +9,5 @@ parent_title: Markov Matrices; Fourier Series
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.11prob.pdf
-type: OCWFile
 uid: bba3c75a-e696-682c-cada-e215474141b5
 ---

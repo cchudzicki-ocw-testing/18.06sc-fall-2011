@@ -9,6 +9,5 @@ parent_title: Matrix Spaces; Rank 1; Small World Graphs
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.11sum.pdf
-type: OCWFile
 uid: 732789d4-b5c1-247c-cab5-faf13b6f29d2
 ---

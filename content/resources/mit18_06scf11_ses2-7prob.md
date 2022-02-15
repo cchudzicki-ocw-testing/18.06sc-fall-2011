@@ -9,6 +9,5 @@ parent_title: Cramer's Rule, Inverse Matrix and Volume
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.7prob.pdf
-type: OCWFile
 uid: d9154343-9c69-ed9a-21cf-24981ab4ba98
 ---

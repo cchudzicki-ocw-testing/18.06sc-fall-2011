@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Transposes, Permutations, Vector Spaces
-type: CourseSection
 uid: 78c64d70-411e-e481-e2bb-d7a7244a0bf3
 ---
 

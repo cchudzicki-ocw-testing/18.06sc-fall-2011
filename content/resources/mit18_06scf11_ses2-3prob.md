@@ -9,6 +9,5 @@ parent_title: Projection Matrices and Least Squares
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.3prob.pdf
-type: OCWFile
 uid: 33fdb9f7-b778-7e26-7521-69e249def994
 ---

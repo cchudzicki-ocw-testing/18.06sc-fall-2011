@@ -8,6 +8,5 @@ parent_title: Column Space and Nullspace
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.6prob.pdf
-type: OCWFile
 uid: 255ec48e-5183-55a8-ef94-b086e3a5a247
 ---

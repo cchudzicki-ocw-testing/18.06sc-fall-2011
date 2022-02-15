@@ -5,7 +5,6 @@ parent_title: 'Unit III: Positive Definite Matrices and Applications'
 parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Change of Basis; Image Compression
-type: CourseSection
 uid: 7b90bea0-f6ce-9bfd-c750-ada6103da88c
 ---
 

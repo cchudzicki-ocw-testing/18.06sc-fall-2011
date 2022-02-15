@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Unit II: Least Squares, Determinants and Eigenvalues'
-type: CourseSection
 uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 ---
 

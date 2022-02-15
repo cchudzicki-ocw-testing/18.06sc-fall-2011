@@ -8,6 +8,5 @@ parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_final_exs.pdf
-type: OCWFile
 uid: 03fa86c6-72ca-b6cc-e168-955824c92f6e
 ---

@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Final Course Review
-type: CourseSection
 uid: a59901ce-cbc5-cc41-0b70-2826dc2ae39b
 ---
 

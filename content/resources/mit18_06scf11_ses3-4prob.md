@@ -9,6 +9,5 @@ parent_title: Similar Matrices and Jordan Form
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.4prob.pdf
-type: OCWFile
 uid: dd8682e0-d4a5-df4c-e8b5-d65095a63592
 ---

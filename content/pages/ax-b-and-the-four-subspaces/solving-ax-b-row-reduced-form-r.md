@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: 'Solving Ax = b: Row Reduced Form R'
-type: CourseSection
 uid: 5fa61a8a-cb4b-ace2-b291-fa9364395075
 ---
 

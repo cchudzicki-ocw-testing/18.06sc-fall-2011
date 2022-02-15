@@ -5,7 +5,6 @@ parent_title: 'Unit III: Positive Definite Matrices and Applications'
 parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Similar Matrices and Jordan Form
-type: CourseSection
 uid: b358f2d2-8636-54b7-503b-47b34cc0953a
 ---
 

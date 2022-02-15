@@ -5,7 +5,6 @@ parent_title: 'Unit III: Positive Definite Matrices and Applications'
 parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Symmetric Matrices and Positive Definiteness
-type: CourseSection
 uid: 83daa789-4c9b-a2c7-ac6c-afe27aef0e1c
 ---
 

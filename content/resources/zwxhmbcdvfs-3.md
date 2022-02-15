@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
-type: OCWFile
 uid: e4c83d4e-cccf-6b84-2cd3-26d377fafb10
 ---

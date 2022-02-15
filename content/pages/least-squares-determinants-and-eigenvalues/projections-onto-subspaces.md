@@ -5,7 +5,6 @@ parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Projections onto Subspaces
-type: CourseSection
 uid: 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10
 ---
 

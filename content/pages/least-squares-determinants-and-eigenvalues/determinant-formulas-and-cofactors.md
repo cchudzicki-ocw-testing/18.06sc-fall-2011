@@ -5,7 +5,6 @@ parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Determinant Formulas and Cofactors
-type: CourseSection
 uid: 172571ec-1468-8c38-e3a6-02925af8e7d9
 ---
 

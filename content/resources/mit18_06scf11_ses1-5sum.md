@@ -9,6 +9,5 @@ parent_title: Transposes, Permutations, Vector Spaces
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.5sum.pdf
-type: OCWFile
 uid: 33b21afa-b62e-a8df-6c7b-d241240df60d
 ---

@@ -8,6 +8,5 @@ parent_title: Final Course Review
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_FinalRevsum.pdf
-type: OCWFile
 uid: 89e753b4-5eed-4378-2882-1e585bed0e59
 ---

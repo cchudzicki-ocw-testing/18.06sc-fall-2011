@@ -9,6 +9,5 @@ parent_title: Factorization into A = LU
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.4sum.pdf
-type: OCWFile
 uid: c5961452-fbb3-1f8a-0b34-ecd0ffc5cdc4
 ---

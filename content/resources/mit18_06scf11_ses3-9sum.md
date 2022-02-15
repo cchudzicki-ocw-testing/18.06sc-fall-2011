@@ -8,6 +8,5 @@ parent_title: Exam 3 Review
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.9sum.pdf
-type: OCWFile
 uid: 7285f409-8602-0f97-ebe1-38acc914c66c
 ---

@@ -5,7 +5,6 @@ parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Differential Equations and exp(At)
-type: CourseSection
 uid: 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74
 ---
 

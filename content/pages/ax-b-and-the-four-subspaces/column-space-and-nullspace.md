@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Column Space and Nullspace
-type: CourseSection
 uid: bb16f055-bb0c-2fa6-b00b-24a82c138877
 ---
 

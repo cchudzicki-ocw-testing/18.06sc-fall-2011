@@ -5,7 +5,6 @@ parent_title: 'Unit III: Positive Definite Matrices and Applications'
 parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Exam 3 Review
-type: CourseSection
 uid: 832ceb87-f20f-cd83-981c-236a6c11e277
 ---
 

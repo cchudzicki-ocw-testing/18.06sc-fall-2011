@@ -12,6 +12,5 @@ parent_title: Meet the TAs
 parent_type: CourseSection
 resourcetype: Image
 title: Ana_photo.jpg
-type: OCWImage
 uid: 10c999e8-5998-f9de-07a0-fd8658b94a6c
 ---

@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Graphs, Networks, Incidence Matrices
-type: CourseSection
 uid: 8be90057-9381-41d7-712d-45f0e42d1cfc
 ---
 

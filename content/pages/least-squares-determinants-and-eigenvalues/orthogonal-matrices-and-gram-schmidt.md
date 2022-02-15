@@ -5,7 +5,6 @@ parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Orthogonal Matrices and Gram-Schmidt
-type: CourseSection
 uid: 2376f3e0-0c4d-e0f6-6346-53041d685aed
 ---
 

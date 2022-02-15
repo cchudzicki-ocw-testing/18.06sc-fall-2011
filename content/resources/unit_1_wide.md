@@ -12,6 +12,5 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 resourcetype: Image
 title: Unit_1_WIDE.jpg
-type: OCWImage
 uid: 50ce4d8c-ddfa-06b9-c4d8-4f7e03a7e0e7
 ---

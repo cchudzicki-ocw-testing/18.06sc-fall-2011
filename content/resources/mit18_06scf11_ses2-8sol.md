@@ -9,6 +9,5 @@ parent_title: Eigenvalues and Eigenvectors
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.8sol.pdf
-type: OCWFile
 uid: a5b090d9-2c33-0788-febc-5b2092906af9
 ---

@@ -5,7 +5,6 @@ parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Projection Matrices and Least Squares
-type: CourseSection
 uid: 5f12aef9-0a3e-a658-e59c-e968a672c0c2
 ---
 

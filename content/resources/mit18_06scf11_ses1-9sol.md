@@ -9,6 +9,5 @@ parent_title: Independence, Basis and Dimension
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.9sol.pdf
-type: OCWFile
 uid: 793cbea8-c118-cf3b-30ba-2944a5c61dee
 ---

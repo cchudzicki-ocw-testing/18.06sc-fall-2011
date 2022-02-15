@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Independence, Basis and Dimension
-type: CourseSection
 uid: f4986e82-13a7-cf7c-ebaa-aba5fa7882f0
 ---
 

@@ -8,6 +8,5 @@ parent_title: Singular Value Decomposition
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.5sum.pdf
-type: OCWFile
 uid: d273f75e-e255-2a5c-3c35-ccab37e5edce
 ---

@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Matrix Spaces; Rank 1; Small World Graphs
-type: CourseSection
 uid: edaea805-267a-c1a3-9a73-e8d7f348edba
 ---
 

@@ -9,6 +9,5 @@ parent_title: Diagonalization and Powers of A
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.9sum.pdf
-type: OCWFile
 uid: d0579535-5f5c-be35-356a-4a1b39658336
 ---

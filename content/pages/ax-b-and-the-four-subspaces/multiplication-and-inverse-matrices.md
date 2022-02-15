@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Multiplication and Inverse Matrices
-type: CourseSection
 uid: c6606cdd-9775-d774-f694-cdc5e6c30381
 ---
 

@@ -9,6 +9,5 @@ parent_title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.7sum.pdf
-type: OCWFile
 uid: dddb31df-e72d-2e2e-2fd0-9e74713b7775
 ---

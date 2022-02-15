@@ -8,6 +8,5 @@ parent_title: Exam 1 Review
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.14sum.pdf
-type: OCWFile
 uid: b547dd41-53cc-c350-860d-f8f43085c2d6
 ---

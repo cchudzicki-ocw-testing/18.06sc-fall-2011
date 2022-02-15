@@ -6,6 +6,5 @@ file_type: text/x-objcsrc
 learning_resource_types: []
 resourcetype: Other
 title: HexagonArt.m
-type: OCWFile
 uid: cf325539-d969-4ecc-9038-96ebbe64b448
 ---

@@ -9,6 +9,5 @@ parent_title: 'Solving Ax = b: Row Reduced Form R'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.8sum.pdf
-type: OCWFile
 uid: f5a74578-196a-8afc-2fd2-ba8581acb17f
 ---

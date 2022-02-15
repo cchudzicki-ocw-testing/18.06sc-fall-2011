@@ -8,6 +8,5 @@ parent_title: Elimination with Matrices
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.2prob.pdf
-type: OCWFile
 uid: 2a96d025-346d-8845-8292-51cb918caddd
 ---

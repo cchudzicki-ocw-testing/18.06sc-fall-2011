@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Elimination with Matrices
-type: CourseSection
 uid: 060c0abf-f399-49c6-f5be-ff6291e747a5
 ---
 

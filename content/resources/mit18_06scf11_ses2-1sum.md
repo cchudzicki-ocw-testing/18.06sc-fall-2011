@@ -9,6 +9,5 @@ parent_title: Orthogonal Vectors and Subspaces
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.1sum.pdf
-type: OCWFile
 uid: fdce42d9-c8d8-dc4e-ac7a-9db3c1978e18
 ---

@@ -9,6 +9,5 @@ parent_title: Left and Right Inverses; Pseudoinverse
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.8sol.pdf
-type: OCWFile
 uid: 65f6a7ea-1da9-932a-2939-085151ca23a0
 ---

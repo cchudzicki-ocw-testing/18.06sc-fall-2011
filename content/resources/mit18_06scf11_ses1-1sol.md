@@ -9,6 +9,5 @@ parent_title: The Geometry of Linear Equations
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.1sol.pdf
-type: OCWFile
 uid: 290a5d85-7d2a-51bf-21d4-eebf05905620
 ---

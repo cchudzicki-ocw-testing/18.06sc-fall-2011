@@ -9,6 +9,5 @@ parent_title: Determinant Formulas and Cofactors
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.6sol.pdf
-type: OCWFile
 uid: 022524a6-5ff0-9509-7fdc-e7857c87bedf
 ---

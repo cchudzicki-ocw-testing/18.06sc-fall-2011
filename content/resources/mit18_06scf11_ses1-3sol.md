@@ -9,6 +9,5 @@ parent_title: Multiplication and Inverse Matrices
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.3sol.pdf
-type: OCWFile
 uid: d2dc903c-a48f-3d1f-fa15-28abde719c94
 ---

@@ -8,6 +8,5 @@ parent_title: Exam 3
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_ex3.pdf
-type: OCWFile
 uid: 067b49ba-ff2d-e3b7-1337-94b52b824d36
 ---

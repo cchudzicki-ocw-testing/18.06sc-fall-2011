@@ -9,6 +9,5 @@ parent_title: Complex Matrices; Fast Fourier Transform (FFT)
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.2sol.pdf
-type: OCWFile
 uid: 37617dbf-2487-5b2d-faac-3e46e6305773
 ---

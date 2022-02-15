@@ -5,7 +5,6 @@ parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Exam 2
-type: CourseSection
 uid: afe66f8e-2c8a-f216-34f4-261b58ca7f09
 ---
 

@@ -5,7 +5,6 @@ parent_title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Cramer's Rule, Inverse Matrix and Volume
-type: CourseSection
 uid: 86cb2711-cb7c-4313-42de-c1540dfe8ce2
 ---
 

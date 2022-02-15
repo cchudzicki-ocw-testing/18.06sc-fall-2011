@@ -9,6 +9,5 @@ parent_title: Positive Definite Matrices and Minima
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.3sum.pdf
-type: OCWFile
 uid: d163e012-7542-58d3-b374-548504d8a18a
 ---

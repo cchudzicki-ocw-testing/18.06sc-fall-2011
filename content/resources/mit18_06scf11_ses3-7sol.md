@@ -9,6 +9,5 @@ parent_title: Change of Basis; Image Compression
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.7sol.pdf
-type: OCWFile
 uid: 59b81b79-eaab-5aca-b813-5f0dbe502955
 ---

@@ -9,6 +9,5 @@ parent_title: Differential Equations and exp(At)
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses2.10prob.pdf
-type: OCWFile
 uid: be691a89-76e7-e7b9-4683-4654669c24d7
 ---

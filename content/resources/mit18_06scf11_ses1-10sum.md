@@ -8,6 +8,5 @@ parent_title: The Four Fundamental Subspaces
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.10sum.pdf
-type: OCWFile
 uid: 62a9db9e-eab1-9069-4d40-afe4734068ca
 ---

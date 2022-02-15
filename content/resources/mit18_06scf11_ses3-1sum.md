@@ -9,6 +9,5 @@ parent_title: Symmetric Matrices and Positive Definiteness
 parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.1sum.pdf
-type: OCWFile
 uid: 804ab1e5-3134-741d-2044-d241b50a285e
 ---

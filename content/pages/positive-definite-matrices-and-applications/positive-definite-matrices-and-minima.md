@@ -5,7 +5,6 @@ parent_title: 'Unit III: Positive Definite Matrices and Applications'
 parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Positive Definite Matrices and Minima
-type: CourseSection
 uid: c75e4546-e980-a4f3-4fba-9c17295b6b7b
 ---
 

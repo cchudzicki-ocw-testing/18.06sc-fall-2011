@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: The Four Fundamental Subspaces
-type: CourseSection
 uid: 0050fe07-f47a-b375-ac0f-3abe492f8ae1
 ---
 

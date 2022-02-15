@@ -5,7 +5,6 @@ parent_title: 'Unit I: Ax = b and the Four Subspaces'
 parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Exam 1 Review
-type: CourseSection
 uid: e451ffac-351d-687a-8b19-3c0159c4b2a7
 ---
 
