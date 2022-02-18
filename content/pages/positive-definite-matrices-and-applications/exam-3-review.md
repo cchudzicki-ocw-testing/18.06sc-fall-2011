@@ -9,7 +9,7 @@ title: Exam 3 Review
 uid: 832ceb87-f20f-cd83-981c-236a6c11e277
 ---
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/exam-3) »
+« {{< resource_link ab040c17-91a2-dbfe-0cb9-75cf0190634f "Previous" >}} | {{< resource_link 3921e359-ef46-ef69-930f-0c922b456485 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file 9c2e31b4-d527-feed-3d7e-6686c8368b80 >}})
+{{< resource 9c2e31b4-d527-feed-3d7e-6686c8368b80 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [Exam 3 Review]({{< baseurl >}}/resources/exam-3-review)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-9sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/hgc1l_6yskc-1)
+*   Watch the video lecture {{< resource_link 760addad-1e08-3515-d512-ca7b82afe11b "Exam 3 Review" >}}
+*   Read the accompanying {{< resource_link 7285f409-8602-0f97-ebe1-38acc914c66c "lecture summary (PDF)" >}}
+*   {{< resource_link 246e18f1-90ad-c4a5-ebed-3bf57b0a70c6 "Lecture video transcript (PDF)" >}}
 
 ### Suggested Reading
 
@@ -46,7 +46,7 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [Exam 3 Problem Solving]({{< baseurl >}}/resources/exam-3-problem-solving)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/oshy7ycgbae-1)
+*   Watch the recitation video on {{< resource_link f82e9158-2f94-8aba-01ba-abd5502c6e99 "Exam 3 Problem Solving" >}}
+*   {{< resource_link 75b06674-c5c0-542b-51d7-3280140fbce0 "Recitation video transcript (PDF)" >}}
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/exam-3) »
+« {{< resource_link ab040c17-91a2-dbfe-0cb9-75cf0190634f "Previous" >}} | {{< resource_link 3921e359-ef46-ef69-930f-0c922b456485 "Next" >}} »

@@ -9,7 +9,7 @@ title: Left and Right Inverses; Pseudoinverse
 uid: ab040c17-91a2-dbfe-0cb9-75cf0190634f
 ---
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/change-of-basis-image-compression) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/exam-3-review) »
+« {{< resource_link 7b90bea0-f6ce-9bfd-c750-ada6103da88c "Previous" >}} | {{< resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file ddd04933-92df-528e-a8b7-c3313ba313cf >}})
+{{< resource ddd04933-92df-528e-a8b7-c3313ba313cf >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,9 +38,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [Lecture 33: Left and Right Inverses; Pseudoinverse]({{< baseurl >}}/resources/lecture-33-left-and-right-inverses-pseudoinverse)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-8sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/go2alo7zolu-1)
+*   Watch the video lecture {{< resource_link 7b7a7cf8-c323-0884-3dfb-adde6278babe "Lecture 33: Left and Right Inverses; Pseudoinverse" >}}
+*   Read the accompanying {{< resource_link 0550c89b-69c9-9e97-dcbf-52074e293308 "lecture summary (PDF)" >}}
+*   {{< resource_link ef47fdd7-0952-bd98-1a88-3c20138e03c4 "Lecture video transcript (PDF)" >}}
 
 ### Suggested Reading
 
@@ -48,8 +48,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [Problem Solving: Pseudoinverses]({{< baseurl >}}/resources/problem-solving-pseudoinverses)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/hsrchtafkje-1)
+*   Watch the recitation video on {{< resource_link 420242da-881e-acaa-76fb-5fbc624a6bdf "Problem Solving: Pseudoinverses" >}}
+*   {{< resource_link fb51b340-5702-6731-6fcc-14d0d3a07777 "Recitation video transcript (PDF)" >}}
 
 Check Yourself
 --------------
@@ -58,7 +58,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-8prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-8sol)
+*   {{< resource_link 41c162f1-f1c6-d4f6-1e42-a556a56b77bf "Problems (PDF)" >}}
+*   {{< resource_link 65f6a7ea-1da9-932a-2939-085151ca23a0 "Solutions (PDF)" >}}
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/change-of-basis-image-compression) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/exam-3-review) »
+« {{< resource_link 7b90bea0-f6ce-9bfd-c750-ada6103da88c "Previous" >}} | {{< resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Next" >}} »

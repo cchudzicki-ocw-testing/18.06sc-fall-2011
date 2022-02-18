@@ -9,7 +9,7 @@ title: Positive Definite Matrices and Minima
 uid: c75e4546-e980-a4f3-4fba-9c17295b6b7b
 ---
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form) »
+« {{< resource_link d2f78aa2-97e6-82cc-aea1-20a362c5d934 "Previous" >}} | {{< resource_link b358f2d2-8636-54b7-503b-47b34cc0953a "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file 4b19b2c5-2c0d-3144-79d6-0eb3417bb4ab >}})
+{{< resource 4b19b2c5-2c0d-3144-79d6-0eb3417bb4ab >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [Lecture 27: Positive Definite Matrices and Minima]({{< baseurl >}}/resources/lecture-27-positive-definite-matrices-and-minima)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-3sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/vf7eyj2g3ku-1)
+*   Watch the video lecture {{< resource_link c835d375-87b4-9f8b-6978-285cdb7b4ad2 "Lecture 27: Positive Definite Matrices and Minima" >}}
+*   Read the accompanying {{< resource_link d163e012-7542-58d3-b374-548504d8a18a "lecture summary (PDF)" >}}
+*   {{< resource_link 8a8c9675-8f45-cd0d-32d8-b96e73114213 "Lecture video transcript (PDF)" >}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [Problem Solving: Positive Definite Matrices and Minima]({{< baseurl >}}/resources/problem-solving-positive-definite-matrices-and-minima)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/cfn2zuuwpd0-1)
+*   Watch the recitation video on {{< resource_link 2780c0c9-db45-f51f-a4f3-f3f2072e00b1 "Problem Solving: Positive Definite Matrices and Minima" >}}
+*   {{< resource_link 7c7219cb-6517-6015-a744-2048e3de3a75 "Recitation video transcript (PDF)" >}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-3prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses3-3sol)
+*   {{< resource_link fdeb589c-9d29-a1f6-0e30-6667dd886dba "Problems (PDF)" >}}
+*   {{< resource_link a034549d-add9-9fe2-c727-8d6412ddc39f "Solutions (PDF)" >}}
 
-« [Previous]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft) | [Next]({{< baseurl >}}/pages/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form) »
+« {{< resource_link d2f78aa2-97e6-82cc-aea1-20a362c5d934 "Previous" >}} | {{< resource_link b358f2d2-8636-54b7-503b-47b34cc0953a "Next" >}} »

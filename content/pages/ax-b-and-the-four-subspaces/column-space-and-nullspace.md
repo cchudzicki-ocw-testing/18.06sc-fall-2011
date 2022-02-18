@@ -9,7 +9,7 @@ title: Column Space and Nullspace
 uid: bb16f055-bb0c-2fa6-b00b-24a82c138877
 ---
 
-« [Previous]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces) | [Next]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions) »
+« {{< resource_link 78c64d70-411e-e481-e2bb-d7a7244a0bf3 "Previous" >}} | {{< resource_link 0689e9a0-f66b-a169-b57a-71e60e59cfa2 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file 6afa4343-9fd1-599f-df6a-fc8a66641e30 >}})
+{{< resource 6afa4343-9fd1-599f-df6a-fc8a66641e30 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [Column Space and Nullspace]({{< baseurl >}}/resources/column-space-and-nullspace)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-6sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/8o5cmfpeo6g-1)
+*   Watch the video lecture {{< resource_link 1f131b03-67d7-ae2d-a3fb-6268977b2873 "Column Space and Nullspace" >}}
+*   Read the accompanying {{< resource_link a9361fe2-89da-445a-7ca1-fe2f88b55ca7 "lecture summary (PDF)" >}}
+*   {{< resource_link 7c283d19-f8bf-10f3-c336-71c420bd1908 "Lecture video transcript (PDF)" >}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [Vector Subspaces]({{< baseurl >}}/resources/vector-subspaces)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/s8dqzje4v8u-1)
+*   Watch the recitation video on {{< resource_link 20795aec-b78f-dcd4-0ea2-d25d070f4ac8 "Vector Subspaces" >}}
+*   {{< resource_link 5b4f1c3c-69b8-4147-c351-605c67c05b2b "Recitation video transcript (PDF)" >}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   [Problems (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-6prob)
-*   [Solutions (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-6sol)
+*   {{< resource_link 255ec48e-5183-55a8-ef94-b086e3a5a247 "Problems (PDF)" >}}
+*   {{< resource_link f4ae8cc2-b4f3-6574-983d-d4c313f106eb "Solutions (PDF)" >}}
 
-« [Previous]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces) | [Next]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions) »
+« {{< resource_link 78c64d70-411e-e481-e2bb-d7a7244a0bf3 "Previous" >}} | {{< resource_link 0689e9a0-f66b-a169-b57a-71e60e59cfa2 "Next" >}} »

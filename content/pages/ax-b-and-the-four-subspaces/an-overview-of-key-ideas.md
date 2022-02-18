@@ -9,7 +9,7 @@ title: An Overview of Key Ideas
 uid: ff755187-ef48-26e2-abaf-b9c76026cfdb
 ---
 
-« [Previous]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations) | [Next]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/elimination-with-matrices) »
+« {{< resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Previous" >}} | {{< resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Figure excerpted from 'Introduction to Linear Algebra' by G.S. Strang]({{< resource_file b892f70d-4090-a99f-acba-125fc44c78d6 >}})
+{{< resource b892f70d-4090-a99f-acba-125fc44c78d6 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture [An Overview of Linear Algebra]({{< baseurl >}}/resources/an-overview-of-linear-algebra)
-*   Read the accompanying [lecture summary (PDF)]({{< baseurl >}}/resources/mit18_06scf11_ses1-13sum)
-*   [Lecture video transcript (PDF)]({{< baseurl >}}/resources/0objn8f616u-1)
+*   Watch the video lecture {{< resource_link bcc8464e-54a4-c64f-21bd-78a3d6b74941 "An Overview of Linear Algebra" >}}
+*   Read the accompanying {{< resource_link ca8b2f24-428c-3ab6-c747-57ae5ff5056b "lecture summary (PDF)" >}}
+*   {{< resource_link 203505b1-7cb9-f1ce-dc1d-b2a2d384184f "Lecture video transcript (PDF)" >}}
 
 ### Suggested Reading
 
@@ -46,7 +46,7 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on [An Overview of Key Ideas]({{< baseurl >}}/resources/an-overview-of-key-ideas)
-*   [Recitation video transcript (PDF)]({{< baseurl >}}/resources/ozxzhcw663g-1)
+*   Watch the recitation video on {{< resource_link 54bfd31b-c38a-47b1-719e-194c0caa7522 "An Overview of Key Ideas" >}}
+*   {{< resource_link 0013a5b9-019f-c1d7-da3b-303c4d395b83 "Recitation video transcript (PDF)" >}}
 
-« [Previous]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations) | [Next]({{< baseurl >}}/pages/ax-b-and-the-four-subspaces/elimination-with-matrices) »
+« {{< resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Previous" >}} | {{< resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Next" >}} »

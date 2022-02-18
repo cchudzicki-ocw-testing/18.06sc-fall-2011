@@ -45,7 +45,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![About 180 students took this course when it was offered in Fall 2011.]({{< resource_file 60de2806-2b0e-860f-46e9-8bf6e6df88d5 >}})
+{{< resource 60de2806-2b0e-860f-46e9-8bf6e6df88d5 >}}
 
 ### Breakdown by Year
 
