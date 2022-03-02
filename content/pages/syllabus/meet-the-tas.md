@@ -9,7 +9,7 @@ title: Meet the TAs
 uid: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
 ---
 
-« {{< resource_link d8efae91-2fd6-02f9-ac2e-2cb9d064d22e "Previous" >}} | {{< resource_link 34303ce1-9b45-7241-22d2-bd33d64df688 "Next" >}} »
+« {{% resource_link d8efae91-2fd6-02f9-ac2e-2cb9d064d22e "Previous" %}} | {{% resource_link 34303ce1-9b45-7241-22d2-bd33d64df688 "Next" %}} »
 
 {{< resource ec0216b8-40a3-d002-7620-1e9b320d4f22 >}} **Martina Balagovic**  
 _Hi, I am Martina. By now, I taught linear algebra classes in three universities and in many different flavors. I love algebra, and this is probably my favorite class to teach. It gives students the chance to soar into rigorous, abstract algebraic thinking, while being firmly grounded by its many examples. This way one can reason abstractly and then check one's intuition and reasoning on small, very concrete examples. At the same time, one can explore numerous applications in engineering and computer science. I hope the examples we prepared for you will be useful!_
@@ -21,12 +21,12 @@ _Hello, my name is Linan and I'm glad to meet you here. When I was a graduate st
 
 Linan Chen comes from Shenyang, a city in the northeast of China. After completing her B.A. in Mathematics from Tsinghua University, she continued her graduate study at MIT where she obtained her Ph.D. in Mathematics in 2011. Linan has been an instructor for various math courses, and for her teaching effort, she was awarded the Charles and Holly Housman Award for Excellence in Teaching from the Department of Mathematics at MIT in 2011.  Linan also created six recitation sessions for this course in Mandarin Chinese. You can find them in the following sessions:
 
-*   {{< resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "The Geometry of Linear Algebra" >}}
-*   {{< resource_link 78c64d70-411e-e481-e2bb-d7a7244a0bf3 "Transposes, Permutations, Vector Spaces" >}}
-*   {{< resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Determinant Formulas and Cofactors" >}}
-*   {{< resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Cramer's Rule, Inverse Matrix and Volume" >}}
-*   {{< resource_link 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74 "Differential Equations and exp(At)" >}}
-*   {{< resource_link 1d326649-6e08-30e5-7e06-9f94d70f88bb "Exam 2 Review" >}}
+*   {{% resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "The Geometry of Linear Algebra" %}}
+*   {{% resource_link 78c64d70-411e-e481-e2bb-d7a7244a0bf3 "Transposes, Permutations, Vector Spaces" %}}
+*   {{% resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Determinant Formulas and Cofactors" %}}
+*   {{% resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Cramer's Rule, Inverse Matrix and Volume" %}}
+*   {{% resource_link 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74 "Differential Equations and exp(At)" %}}
+*   {{% resource_link 1d326649-6e08-30e5-7e06-9f94d70f88bb "Exam 2 Review" %}}
 
 Linan is currently a Postdoctoral Fellow at McGill University, and her main research interest lies in probability theory, as well as its applications in other disciplines.
 
@@ -52,4 +52,4 @@ _Hi, I am Nikola. I hope you find these recitation videos, supplementing Prof. S
 
 Nikola Kamburov is a Ph.D. student in the Department of Mathematics at MIT. He grew up in Bulgaria and he earned his bachelor's degree in mathematics from Princeton University. His research focuses on nonlinear partial differential equations.
 
-« {{< resource_link d8efae91-2fd6-02f9-ac2e-2cb9d064d22e "Previous" >}} | {{< resource_link 34303ce1-9b45-7241-22d2-bd33d64df688 "Next" >}} »
+« {{% resource_link d8efae91-2fd6-02f9-ac2e-2cb9d064d22e "Previous" %}} | {{% resource_link 34303ce1-9b45-7241-22d2-bd33d64df688 "Next" %}} »

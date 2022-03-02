@@ -9,7 +9,7 @@ title: Exam 3
 uid: 3921e359-ef46-ef69-930f-0c922b456485
 ---
 
-« {{< resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Previous" >}} | {{< resource_link a59901ce-cbc5-cc41-0b70-2826dc2ae39b "Next" >}} »
+« {{% resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Previous" %}} | {{% resource_link a59901ce-cbc5-cc41-0b70-2826dc2ae39b "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,7 +36,7 @@ Check Yourself
 
 ### Exams and Solutions
 
-*   {{< resource_link 067b49ba-ff2d-e3b7-1337-94b52b824d36 "Exams (PDF)" >}}
-*   {{< resource_link 92b86aaa-4f5f-4cce-178c-69faeb52039e "Solutions (PDF)" >}}
+*   {{% resource_link 067b49ba-ff2d-e3b7-1337-94b52b824d36 "Exams (PDF)" %}}
+*   {{% resource_link 92b86aaa-4f5f-4cce-178c-69faeb52039e "Solutions (PDF)" %}}
 
-« {{< resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Previous" >}} | {{< resource_link a59901ce-cbc5-cc41-0b70-2826dc2ae39b "Next" >}} »
+« {{% resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Previous" %}} | {{% resource_link a59901ce-cbc5-cc41-0b70-2826dc2ae39b "Next" %}} »

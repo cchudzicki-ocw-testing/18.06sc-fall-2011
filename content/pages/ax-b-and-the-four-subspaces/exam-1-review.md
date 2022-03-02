@@ -9,7 +9,7 @@ title: Exam 1 Review
 uid: e451ffac-351d-687a-8b19-3c0159c4b2a7
 ---
 
-« {{< resource_link 8be90057-9381-41d7-712d-45f0e42d1cfc "Previous" >}} | {{< resource_link f5c6f676-32a0-d7e7-bcdf-bc97569b662f "Next" >}} »
+« {{% resource_link 8be90057-9381-41d7-712d-45f0e42d1cfc "Previous" %}} | {{% resource_link f5c6f676-32a0-d7e7-bcdf-bc97569b662f "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link 3f9e306b-8597-7c21-227f-5f241af2f7cc "Exam 1 Review" >}}
-*   Read the accompanying {{< resource_link b547dd41-53cc-c350-860d-f8f43085c2d6 "lecture summary (PDF)" >}}
-*   {{< resource_link ae051c7b-15bd-2048-1cba-b408d5fca486 "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link 3f9e306b-8597-7c21-227f-5f241af2f7cc "Exam 1 Review" %}}
+*   Read the accompanying {{% resource_link b547dd41-53cc-c350-860d-f8f43085c2d6 "lecture summary (PDF)" %}}
+*   {{% resource_link ae051c7b-15bd-2048-1cba-b408d5fca486 "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,7 +46,7 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link c7c130b9-288c-108b-8c30-c079350b6f9d "Exam 1 Problem Solving" >}}
-*   {{< resource_link 0f5a0643-c2ea-a566-7603-aa39ec807f70 "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link c7c130b9-288c-108b-8c30-c079350b6f9d "Exam 1 Problem Solving" %}}
+*   {{% resource_link 0f5a0643-c2ea-a566-7603-aa39ec807f70 "Recitation video transcript (PDF)" %}}
 
-« {{< resource_link 8be90057-9381-41d7-712d-45f0e42d1cfc "Previous" >}} | {{< resource_link f5c6f676-32a0-d7e7-bcdf-bc97569b662f "Next" >}} »
+« {{% resource_link 8be90057-9381-41d7-712d-45f0e42d1cfc "Previous" %}} | {{% resource_link f5c6f676-32a0-d7e7-bcdf-bc97569b662f "Next" %}} »

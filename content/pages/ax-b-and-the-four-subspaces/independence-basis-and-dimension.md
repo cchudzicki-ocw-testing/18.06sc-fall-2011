@@ -9,7 +9,7 @@ title: Independence, Basis and Dimension
 uid: f4986e82-13a7-cf7c-ebaa-aba5fa7882f0
 ---
 
-« {{< resource_link 5fa61a8a-cb4b-ace2-b291-fa9364395075 "Previous" >}} | {{< resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Next" >}} »
+« {{% resource_link 5fa61a8a-cb4b-ace2-b291-fa9364395075 "Previous" %}} | {{% resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link 0527d1f2-fcfb-f6a1-f249-3d724180b490 "Independence, Basis and Dimension" >}}
-*   Read the accompanying {{< resource_link 0bbc30e3-f1d7-933e-a07a-2d2e9ab050d9 "lecture summary (PDF)" >}}
-*   {{< resource_link 265592b3-4ca5-5854-1dcc-e602b51d550a "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link 0527d1f2-fcfb-f6a1-f249-3d724180b490 "Independence, Basis and Dimension" %}}
+*   Read the accompanying {{% resource_link 0bbc30e3-f1d7-933e-a07a-2d2e9ab050d9 "lecture summary (PDF)" %}}
+*   {{% resource_link 265592b3-4ca5-5854-1dcc-e602b51d550a "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link 8ed637ed-491b-b5db-db8e-31b243977e0c "Basis and Dimension" >}}
-*   {{< resource_link 0d432adc-d795-8f5d-bede-cccd20ec1efc "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link 8ed637ed-491b-b5db-db8e-31b243977e0c "Basis and Dimension" %}}
+*   {{% resource_link 0d432adc-d795-8f5d-bede-cccd20ec1efc "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   {{< resource_link 562c3102-6033-b44a-0549-1b57834a5a0e "Problems (PDF)" >}}
-*   {{< resource_link 793cbea8-c118-cf3b-30ba-2944a5c61dee "Solutions (PDF)" >}}
+*   {{% resource_link 562c3102-6033-b44a-0549-1b57834a5a0e "Problems (PDF)" %}}
+*   {{% resource_link 793cbea8-c118-cf3b-30ba-2944a5c61dee "Solutions (PDF)" %}}
 
-« {{< resource_link 5fa61a8a-cb4b-ace2-b291-fa9364395075 "Previous" >}} | {{< resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Next" >}} »
+« {{% resource_link 5fa61a8a-cb4b-ace2-b291-fa9364395075 "Previous" %}} | {{% resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Next" %}} »

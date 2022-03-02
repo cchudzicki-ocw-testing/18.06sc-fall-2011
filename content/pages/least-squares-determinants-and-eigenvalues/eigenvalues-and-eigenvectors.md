@@ -9,7 +9,7 @@ title: Eigenvalues and Eigenvectors
 uid: 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7
 ---
 
-« {{< resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Previous" >}} | {{< resource_link dcb9a660-b4e1-e1d4-837b-ad83344a716e "Next" >}} »
+« {{% resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Previous" %}} | {{% resource_link dcb9a660-b4e1-e1d4-837b-ad83344a716e "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link fec5dff8-f786-67ba-0f9e-e801f434d996 "Lecture 21: Eigenvalues and Eigenvectors" >}}
-*   Read the accompanying {{< resource_link 1999c9f4-accd-bef0-5571-a1014438f8dd "lecture summary (PDF)" >}}
-*   {{< resource_link e55ee864-50e5-eeff-8c33-1750e8d46448 "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link fec5dff8-f786-67ba-0f9e-e801f434d996 "Lecture 21: Eigenvalues and Eigenvectors" %}}
+*   Read the accompanying {{% resource_link 1999c9f4-accd-bef0-5571-a1014438f8dd "lecture summary (PDF)" %}}
+*   {{% resource_link e55ee864-50e5-eeff-8c33-1750e8d46448 "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link 787e0f96-696d-be97-e7fa-e15700a5a92d "Problem Solving: Eigenvalues and Eigenvectors" >}}
-*   {{< resource_link 6c525b41-e0a7-c9f8-440d-fa4176c877ff "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link 787e0f96-696d-be97-e7fa-e15700a5a92d "Problem Solving: Eigenvalues and Eigenvectors" %}}
+*   {{% resource_link 6c525b41-e0a7-c9f8-440d-fa4176c877ff "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   {{< resource_link 45bdf363-c6f1-a564-a61f-df61aa86748c "Problems (PDF)" >}}
-*   {{< resource_link a5b090d9-2c33-0788-febc-5b2092906af9 "Solutions (PDF)" >}}
+*   {{% resource_link 45bdf363-c6f1-a564-a61f-df61aa86748c "Problems (PDF)" %}}
+*   {{% resource_link a5b090d9-2c33-0788-febc-5b2092906af9 "Solutions (PDF)" %}}
 
-« {{< resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Previous" >}} | {{< resource_link dcb9a660-b4e1-e1d4-837b-ad83344a716e "Next" >}} »
+« {{% resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Previous" %}} | {{% resource_link dcb9a660-b4e1-e1d4-837b-ad83344a716e "Next" %}} »

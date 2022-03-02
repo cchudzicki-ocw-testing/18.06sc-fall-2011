@@ -9,7 +9,7 @@ title: Projection Matrices and Least Squares
 uid: 5f12aef9-0a3e-a658-e59c-e968a672c0c2
 ---
 
-« {{< resource_link 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10 "Previous" >}} | {{< resource_link 2376f3e0-0c4d-e0f6-6346-53041d685aed "Next" >}} »
+« {{% resource_link 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10 "Previous" %}} | {{% resource_link 2376f3e0-0c4d-e0f6-6346-53041d685aed "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link 983528fc-6ab8-4907-7d5b-e1252652f08e "Lecture 16: Projection Matrices and Least Squares" >}}
-*   Read the accompanying {{< resource_link 198bde3a-6536-b629-89b6-cc09495575c1 "lecture summary (PDF)" >}}
-*   {{< resource_link 0874a421-068b-100d-bc6a-a592d0ab6d10 "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link 983528fc-6ab8-4907-7d5b-e1252652f08e "Lecture 16: Projection Matrices and Least Squares" %}}
+*   Read the accompanying {{% resource_link 198bde3a-6536-b629-89b6-cc09495575c1 "lecture summary (PDF)" %}}
+*   {{% resource_link 0874a421-068b-100d-bc6a-a592d0ab6d10 "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link 91b816b9-43c5-6f47-c523-5dc9a1da689f "Problem Solving: Least Squares Approximation" >}}
-*   {{< resource_link 79bfc676-61f7-d63d-ec82-28fb2856002c "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link 91b816b9-43c5-6f47-c523-5dc9a1da689f "Problem Solving: Least Squares Approximation" %}}
+*   {{% resource_link 79bfc676-61f7-d63d-ec82-28fb2856002c "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   {{< resource_link 33fdb9f7-b778-7e26-7521-69e249def994 "Problems (PDF)" >}}
-*   {{< resource_link 815ad23f-78e1-1c1a-7d28-2022fc2db3a9 "Solutions (PDF)" >}}
+*   {{% resource_link 33fdb9f7-b778-7e26-7521-69e249def994 "Problems (PDF)" %}}
+*   {{% resource_link 815ad23f-78e1-1c1a-7d28-2022fc2db3a9 "Solutions (PDF)" %}}
 
-« {{< resource_link 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10 "Previous" >}} | {{< resource_link 2376f3e0-0c4d-e0f6-6346-53041d685aed "Next" >}} »
+« {{% resource_link 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10 "Previous" %}} | {{% resource_link 2376f3e0-0c4d-e0f6-6346-53041d685aed "Next" %}} »

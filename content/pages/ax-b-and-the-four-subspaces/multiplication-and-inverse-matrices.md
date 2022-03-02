@@ -9,7 +9,7 @@ title: Multiplication and Inverse Matrices
 uid: c6606cdd-9775-d774-f694-cdc5e6c30381
 ---
 
-« {{< resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Previous" >}} | {{< resource_link 2817c81b-0904-0d03-c0c6-34f006d5a20d "Next" >}} »
+« {{% resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Previous" %}} | {{% resource_link 2817c81b-0904-0d03-c0c6-34f006d5a20d "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture \< {{< resource_link aa40f3aa-201c-22de-4560-52b60f9cd2fc "Multiplication and Inverse Matrices" >}}
-*   Read the accompanying {{< resource_link 1963da71-c4d9-6e5d-14e7-939780f79bcc "lecture summary (PDF)" >}}
-*   {{< resource_link d83ded90-24aa-e131-0ab3-236a216d34d7 "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture \< {{% resource_link aa40f3aa-201c-22de-4560-52b60f9cd2fc "Multiplication and Inverse Matrices" %}}
+*   Read the accompanying {{% resource_link 1963da71-c4d9-6e5d-14e7-939780f79bcc "lecture summary (PDF)" %}}
+*   {{% resource_link d83ded90-24aa-e131-0ab3-236a216d34d7 "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link 8320d506-35cc-029e-9ae6-7f45968e617e "Inverse Matrices" >}}
-*   {{< resource_link f9354bd8-5c6f-923d-33f8-e8129e30c094 "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link 8320d506-35cc-029e-9ae6-7f45968e617e "Inverse Matrices" %}}
+*   {{% resource_link f9354bd8-5c6f-923d-33f8-e8129e30c094 "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   {{< resource_link 8e9ccbcc-1330-0a9b-da7f-24a684bd16b6 "Problems (PDF)" >}}
-*   {{< resource_link d2dc903c-a48f-3d1f-fa15-28abde719c94 "Solutions (PDF)" >}}
+*   {{% resource_link 8e9ccbcc-1330-0a9b-da7f-24a684bd16b6 "Problems (PDF)" %}}
+*   {{% resource_link d2dc903c-a48f-3d1f-fa15-28abde719c94 "Solutions (PDF)" %}}
 
-« {{< resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Previous" >}} | {{< resource_link 2817c81b-0904-0d03-c0c6-34f006d5a20d "Next" >}} »
+« {{% resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Previous" %}} | {{% resource_link 2817c81b-0904-0d03-c0c6-34f006d5a20d "Next" %}} »

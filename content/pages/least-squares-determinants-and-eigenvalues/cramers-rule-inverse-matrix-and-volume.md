@@ -9,7 +9,7 @@ title: Cramer's Rule, Inverse Matrix and Volume
 uid: 86cb2711-cb7c-4313-42de-c1540dfe8ce2
 ---
 
-« {{< resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Previous" >}} | {{< resource_link 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7 "Next" >}} »
+« {{% resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Previous" %}} | {{% resource_link 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7 "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link e2725926-adcf-e1b2-f01a-9a1231134bfe "Lecture 20: Cramer's Rule, Inverse Matrix and Volume" >}}
-*   Read the accompanying {{< resource_link f6e46da0-d783-d8f9-c0a2-5c407c76166a "lecture summary (PDF)" >}}
-*   {{< resource_link fb148804-0869-b7b3-359e-17ebcb3139e3 "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link e2725926-adcf-e1b2-f01a-9a1231134bfe "Lecture 20: Cramer's Rule, Inverse Matrix and Volume" %}}
+*   Read the accompanying {{% resource_link f6e46da0-d783-d8f9-c0a2-5c407c76166a "lecture summary (PDF)" %}}
+*   {{% resource_link fb148804-0869-b7b3-359e-17ebcb3139e3 "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,9 +46,9 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link f6e781f0-de7c-94d0-b9ce-c28358af07e2 "Problem Solving: Determinants and Volume" >}}
-*   {{< resource_link ebbf9697-dc8d-d2c5-dcb4-6065c13f9876 "Recitation video transcript (PDF)" >}}
-*   观看视频: 习题讲解 -- {{< resource_link 4d848eb3-0b6f-5738-e3f6-69a67b2d522b "行列式和体积" >}} \[watch this recitation in Mandarin\]
+*   Watch the recitation video on {{% resource_link f6e781f0-de7c-94d0-b9ce-c28358af07e2 "Problem Solving: Determinants and Volume" %}}
+*   {{% resource_link ebbf9697-dc8d-d2c5-dcb4-6065c13f9876 "Recitation video transcript (PDF)" %}}
+*   观看视频: 习题讲解 -- {{% resource_link 4d848eb3-0b6f-5738-e3f6-69a67b2d522b "行列式和体积" %}} \[watch this recitation in Mandarin\]
 
 Check Yourself
 --------------
@@ -57,7 +57,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   {{< resource_link d9154343-9c69-ed9a-21cf-24981ab4ba98 "Problems (PDF)" >}}
-*   {{< resource_link 3a6198ee-2541-298b-ec4f-5810f996bf42 "Solutions (PDF)" >}}
+*   {{% resource_link d9154343-9c69-ed9a-21cf-24981ab4ba98 "Problems (PDF)" %}}
+*   {{% resource_link 3a6198ee-2541-298b-ec4f-5810f996bf42 "Solutions (PDF)" %}}
 
-« {{< resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Previous" >}} | {{< resource_link 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7 "Next" >}} »
+« {{% resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Previous" %}} | {{% resource_link 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7 "Next" %}} »

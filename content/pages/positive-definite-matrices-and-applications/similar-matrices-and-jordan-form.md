@@ -9,7 +9,7 @@ title: Similar Matrices and Jordan Form
 uid: b358f2d2-8636-54b7-503b-47b34cc0953a
 ---
 
-« {{< resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Previous" >}} | {{< resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Next" >}} »
+« {{% resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Previous" %}} | {{% resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link 5fca0aa3-ca0a-0945-5e12-08883f302be6 "Lecture 28: Similar Matrices and Jordan Form" >}}
-*   Read the accompanying {{< resource_link 6e1f793f-6c25-fd39-e002-c100e278bf1b "lecture summary (PDF)" >}}
-*   {{< resource_link 6dba2d87-9d4f-00b4-1cdc-fca2fde10a3c "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link 5fca0aa3-ca0a-0945-5e12-08883f302be6 "Lecture 28: Similar Matrices and Jordan Form" %}}
+*   Read the accompanying {{% resource_link 6e1f793f-6c25-fd39-e002-c100e278bf1b "lecture summary (PDF)" %}}
+*   {{% resource_link 6dba2d87-9d4f-00b4-1cdc-fca2fde10a3c "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link 30230dff-522f-6273-7c2d-c3a8698cbeaf "Problem Solving: Similar Matrices" >}}
-*   {{< resource_link d884415d-8533-b2bc-e595-c5817459c53f "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link 30230dff-522f-6273-7c2d-c3a8698cbeaf "Problem Solving: Similar Matrices" %}}
+*   {{% resource_link d884415d-8533-b2bc-e595-c5817459c53f "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   {{< resource_link dd8682e0-d4a5-df4c-e8b5-d65095a63592 "Problems (PDF)" >}}
-*   {{< resource_link d3ee9566-4627-55a6-7ad9-d3af243cd17a "Solutions (PDF)" >}}
+*   {{% resource_link dd8682e0-d4a5-df4c-e8b5-d65095a63592 "Problems (PDF)" %}}
+*   {{% resource_link d3ee9566-4627-55a6-7ad9-d3af243cd17a "Solutions (PDF)" %}}
 
-« {{< resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Previous" >}} | {{< resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Next" >}} »
+« {{% resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Previous" %}} | {{% resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Next" %}} »

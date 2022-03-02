@@ -9,7 +9,7 @@ title: The Four Fundamental Subspaces
 uid: 0050fe07-f47a-b375-ac0f-3abe492f8ae1
 ---
 
-« {{< resource_link f4986e82-13a7-cf7c-ebaa-aba5fa7882f0 "Previous" >}} | {{< resource_link edaea805-267a-c1a3-9a73-e8d7f348edba "Next" >}} »
+« {{% resource_link f4986e82-13a7-cf7c-ebaa-aba5fa7882f0 "Previous" %}} | {{% resource_link edaea805-267a-c1a3-9a73-e8d7f348edba "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link 03148065-ca2a-6020-bc7f-f5527c47b191 "The Four Fundamental Subspaces" >}}
-*   Read the accompanying {{< resource_link 62a9db9e-eab1-9069-4d40-afe4734068ca "lecture summary (PDF)" >}}
-*   {{< resource_link afe0e43e-133e-663f-bea3-a48fb8372bfa "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link 03148065-ca2a-6020-bc7f-f5527c47b191 "The Four Fundamental Subspaces" %}}
+*   Read the accompanying {{% resource_link 62a9db9e-eab1-9069-4d40-afe4734068ca "lecture summary (PDF)" %}}
+*   {{% resource_link afe0e43e-133e-663f-bea3-a48fb8372bfa "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,8 +46,8 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link d90b1bb2-f3ac-0e8c-593b-763afdcc14e2 "Computing the Four Fundamental Subspaces" >}}
-*   {{< resource_link 69f8d928-36fa-1181-356e-a9d7f04fd816 "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link d90b1bb2-f3ac-0e8c-593b-763afdcc14e2 "Computing the Four Fundamental Subspaces" %}}
+*   {{% resource_link 69f8d928-36fa-1181-356e-a9d7f04fd816 "Recitation video transcript (PDF)" %}}
 
 Check Yourself
 --------------
@@ -56,7 +56,7 @@ Check Yourself
 
 Work the problems on your own and check your answers when you're done.
 
-*   {{< resource_link 1036f9ef-2f53-4258-11d3-ab8176b4b4d7 "Problems (PDF)" >}}
-*   {{< resource_link 68f4777b-bcac-272c-9184-347a9849333a "Solutions (PDF)" >}}
+*   {{% resource_link 1036f9ef-2f53-4258-11d3-ab8176b4b4d7 "Problems (PDF)" %}}
+*   {{% resource_link 68f4777b-bcac-272c-9184-347a9849333a "Solutions (PDF)" %}}
 
-« {{< resource_link f4986e82-13a7-cf7c-ebaa-aba5fa7882f0 "Previous" >}} | {{< resource_link edaea805-267a-c1a3-9a73-e8d7f348edba "Next" >}} »
+« {{% resource_link f4986e82-13a7-cf7c-ebaa-aba5fa7882f0 "Previous" %}} | {{% resource_link edaea805-267a-c1a3-9a73-e8d7f348edba "Next" %}} »

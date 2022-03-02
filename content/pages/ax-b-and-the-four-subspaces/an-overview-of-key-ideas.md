@@ -9,7 +9,7 @@ title: An Overview of Key Ideas
 uid: ff755187-ef48-26e2-abaf-b9c76026cfdb
 ---
 
-« {{< resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Previous" >}} | {{< resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Next" >}} »
+« {{% resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Previous" %}} | {{% resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Next" %}} »
 
 Session Overview
 ----------------
@@ -36,9 +36,9 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture {{< resource_link bcc8464e-54a4-c64f-21bd-78a3d6b74941 "An Overview of Linear Algebra" >}}
-*   Read the accompanying {{< resource_link ca8b2f24-428c-3ab6-c747-57ae5ff5056b "lecture summary (PDF)" >}}
-*   {{< resource_link 203505b1-7cb9-f1ce-dc1d-b2a2d384184f "Lecture video transcript (PDF)" >}}
+*   Watch the video lecture {{% resource_link bcc8464e-54a4-c64f-21bd-78a3d6b74941 "An Overview of Linear Algebra" %}}
+*   Read the accompanying {{% resource_link ca8b2f24-428c-3ab6-c747-57ae5ff5056b "lecture summary (PDF)" %}}
+*   {{% resource_link 203505b1-7cb9-f1ce-dc1d-b2a2d384184f "Lecture video transcript (PDF)" %}}
 
 ### Suggested Reading
 
@@ -46,7 +46,7 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on {{< resource_link 54bfd31b-c38a-47b1-719e-194c0caa7522 "An Overview of Key Ideas" >}}
-*   {{< resource_link 0013a5b9-019f-c1d7-da3b-303c4d395b83 "Recitation video transcript (PDF)" >}}
+*   Watch the recitation video on {{% resource_link 54bfd31b-c38a-47b1-719e-194c0caa7522 "An Overview of Key Ideas" %}}
+*   {{% resource_link 0013a5b9-019f-c1d7-da3b-303c4d395b83 "Recitation video transcript (PDF)" %}}
 
-« {{< resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Previous" >}} | {{< resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Next" >}} »
+« {{% resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Previous" %}} | {{% resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Next" %}} »
