@@ -22,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-Professor Strang recommends this video from his Computational Science and Engineering I course ([18.085](/courses/18-085-computational-science-and-engineering-i-fall-2008/)) as an overview of the basics of linear algebra.
+Professor Strang recommends this video from his Computational Science and Engineering I course ([18.085](/courses/18-085-computational-science-and-engineering-i-fall-2008)) as an overview of the basics of linear algebra.
 
 
 {{< tdclose >}}
