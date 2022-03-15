@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Positive Definite Matrices and Minima
 uid: c75e4546-e980-a4f3-4fba-9c17295b6b7b
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link d2f78aa2-97e6-82cc-aea1-20a362c5d934 "Previous" %}} | {{% resource_link b358f2d2-8636-54b7-503b-47b34cc0953a "Next" %}} »

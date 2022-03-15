@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: David_Photo.jpg
 uid: 6209c27d-7560-bd32-ef38-618739bb8dd2
+video_metadata:
+  youtube_id: null
 ---

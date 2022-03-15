@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Transposes, Permutations, Vector Spaces
 uid: 78c64d70-411e-e481-e2bb-d7a7244a0bf3
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 2817c81b-0904-0d03-c0c6-34f006d5a20d "Previous" %}} | {{% resource_link bb16f055-bb0c-2fa6-b00b-24a82c138877 "Next" %}} »

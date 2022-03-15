@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Eigenvalues and Eigenvectors
 uid: 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Previous" %}} | {{% resource_link dcb9a660-b4e1-e1d4-837b-ad83344a716e "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Symmetric Matrices and Positive Definiteness
 uid: 83daa789-4c9b-a2c7-ac6c-afe27aef0e1c
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 34f596bc-2328-22be-5fba-75646f6970c5 "Previous" %}} | {{% resource_link d2f78aa2-97e6-82cc-aea1-20a362c5d934 "Next" %}} »

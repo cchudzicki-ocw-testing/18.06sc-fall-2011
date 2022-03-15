@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: martina_photo.jpg
 uid: ec0216b8-40a3-d002-7620-1e9b320d4f22
+video_metadata:
+  youtube_id: null
 ---

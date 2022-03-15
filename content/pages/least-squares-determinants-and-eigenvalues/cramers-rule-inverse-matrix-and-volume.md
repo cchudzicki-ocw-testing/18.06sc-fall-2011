@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Cramer's Rule, Inverse Matrix and Volume
 uid: 86cb2711-cb7c-4313-42de-c1540dfe8ce2
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Previous" %}} | {{% resource_link 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7 "Next" %}} »

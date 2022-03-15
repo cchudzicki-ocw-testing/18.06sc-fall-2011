@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Independence, Basis and Dimension
 uid: f4986e82-13a7-cf7c-ebaa-aba5fa7882f0
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 5fa61a8a-cb4b-ace2-b291-fa9364395075 "Previous" %}} | {{% resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Next" %}} »

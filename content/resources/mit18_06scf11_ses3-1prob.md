@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses3.1prob.pdf
 uid: 29d9e326-0562-a012-5d27-537cb6baf3d0
+video_metadata:
+  youtube_id: null
 ---

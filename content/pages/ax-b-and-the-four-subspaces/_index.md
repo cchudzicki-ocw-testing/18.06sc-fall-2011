@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit I: Ax = b and the Four Subspaces'
 uid: 34303ce1-9b45-7241-22d2-bd33d64df688
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 451c7be3-3c2f-f17f-4881-adfa981fc5e7 "Previous" %}} | {{% resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Orthogonal Vectors and Subspaces
 uid: fd8c8a4d-fa1b-e88c-ec23-abef203fca2a
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link cf73d07a-c972-ab3c-450a-0f10d0be0664 "Previous" %}} | {{% resource_link 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10 "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Differential Equations and exp(At)
 uid: 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link dcb9a660-b4e1-e1d4-837b-ad83344a716e "Previous" %}} | {{% resource_link 944c197c-016a-0c53-8f01-08eac297793a "Next" %}} »

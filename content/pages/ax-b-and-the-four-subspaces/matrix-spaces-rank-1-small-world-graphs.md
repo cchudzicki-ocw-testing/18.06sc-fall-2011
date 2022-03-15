@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Matrix Spaces; Rank 1; Small World Graphs
 uid: edaea805-267a-c1a3-9a73-e8d7f348edba
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 0050fe07-f47a-b375-ac0f-3abe492f8ae1 "Previous" %}} | {{% resource_link 8be90057-9381-41d7-712d-45f0e42d1cfc "Next" %}} »

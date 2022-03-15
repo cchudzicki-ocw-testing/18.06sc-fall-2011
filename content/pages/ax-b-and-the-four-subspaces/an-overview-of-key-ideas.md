@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: An Overview of Key Ideas
 uid: ff755187-ef48-26e2-abaf-b9c76026cfdb
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link ee886403-2dd8-29b4-83a2-ae7dfeb2da55 "Previous" %}} | {{% resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Next" %}} »

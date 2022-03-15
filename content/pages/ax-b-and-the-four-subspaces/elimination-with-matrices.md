@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Elimination with Matrices
 uid: 060c0abf-f399-49c6-f5be-ff6291e747a5
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link ff755187-ef48-26e2-abaf-b9c76026cfdb "Previous" %}} | {{% resource_link c6606cdd-9775-d774-f694-cdc5e6c30381 "Next" %}} »

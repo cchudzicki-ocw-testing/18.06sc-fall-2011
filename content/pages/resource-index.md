@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Resource Index
 uid: 754d6be4-ca3c-378b-6c8b-2e4a955ffe64
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 7aadf934-9df8-d886-6462-55a5ab83e424 "Previous" %}} »

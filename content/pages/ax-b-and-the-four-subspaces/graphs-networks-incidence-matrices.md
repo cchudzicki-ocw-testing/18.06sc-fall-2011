@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Graphs, Networks, Incidence Matrices
 uid: 8be90057-9381-41d7-712d-45f0e42d1cfc
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link edaea805-267a-c1a3-9a73-e8d7f348edba "Previous" %}} | {{% resource_link e451ffac-351d-687a-8b19-3c0159c4b2a7 "Next" %}} »

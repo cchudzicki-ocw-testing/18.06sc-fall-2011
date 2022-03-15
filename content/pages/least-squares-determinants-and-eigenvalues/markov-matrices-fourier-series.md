@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Markov Matrices; Fourier Series
 uid: 944c197c-016a-0c53-8f01-08eac297793a
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74 "Previous" %}} | {{% resource_link 1d326649-6e08-30e5-7e06-9f94d70f88bb "Next" %}} »

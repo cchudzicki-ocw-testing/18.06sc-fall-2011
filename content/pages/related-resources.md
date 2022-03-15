@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 8b8f9078-a29f-76c6-feba-bd9497648433
+video_metadata:
+  youtube_id: null
 ---
 
 Professor Strang's Related Courses on OCW

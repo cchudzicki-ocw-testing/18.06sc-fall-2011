@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Unit_2_WIDE.jpg
 uid: 8f4d1bf6-fe6c-33b9-3070-e3efc4cbb7df
+video_metadata:
+  youtube_id: null
 ---

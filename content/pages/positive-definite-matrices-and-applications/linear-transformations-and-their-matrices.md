@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Linear Transformations and their Matrices
 uid: 9b3392d9-9beb-d110-47c3-6d07bc404bbc
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Previous" %}} | {{% resource_link 7b90bea0-f6ce-9bfd-c750-ada6103da88c "Next" %}} »

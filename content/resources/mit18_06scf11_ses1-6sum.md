@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.6sum.pdf
 uid: a9361fe2-89da-445a-7ca1-fe2f88b55ca7
+video_metadata:
+  youtube_id: null
 ---

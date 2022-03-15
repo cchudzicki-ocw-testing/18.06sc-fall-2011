@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: linan_photo.jpg
 uid: 1218771a-3383-9c95-24a4-f40f701edb03
+video_metadata:
+  youtube_id: null
 ---

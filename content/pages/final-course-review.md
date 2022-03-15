@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Final Course Review
 uid: a59901ce-cbc5-cc41-0b70-2826dc2ae39b
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 3921e359-ef46-ef69-930f-0c922b456485 "Previous" %}} | {{% resource_link 7aadf934-9df8-d886-6462-55a5ab83e424 "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Exam 3
 uid: 3921e359-ef46-ef69-930f-0c922b456485
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Previous" %}} | {{% resource_link a59901ce-cbc5-cc41-0b70-2826dc2ae39b "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Diagonalization and Powers of A
 uid: dcb9a660-b4e1-e1d4-837b-ad83344a716e
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 3d8f60a8-0fef-5e0f-bd7a-13ad5eb457f7 "Previous" %}} | {{% resource_link 2e8f3fde-52a4-42af-fa1d-8cd0213b4d74 "Next" %}} »

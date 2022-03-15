@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link f5c6f676-32a0-d7e7-bcdf-bc97569b662f "Previous" %}} | {{% resource_link fd8c8a4d-fa1b-e88c-ec23-abef203fca2a "Next" %}} »

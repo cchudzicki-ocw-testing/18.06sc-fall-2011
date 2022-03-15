@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Ben_photo.jpg
 uid: 6fa51d73-6bf3-159f-25da-e2c44ee3f54e
+video_metadata:
+  youtube_id: null
 ---

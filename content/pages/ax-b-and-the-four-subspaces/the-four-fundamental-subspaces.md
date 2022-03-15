@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: The Four Fundamental Subspaces
 uid: 0050fe07-f47a-b375-ac0f-3abe492f8ae1
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link f4986e82-13a7-cf7c-ebaa-aba5fa7882f0 "Previous" %}} | {{% resource_link edaea805-267a-c1a3-9a73-e8d7f348edba "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Projections onto Subspaces
 uid: 1ff24ba8-67b5-ac72-fcad-41dcf3e79e10
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link fd8c8a4d-fa1b-e88c-ec23-abef203fca2a "Previous" %}} | {{% resource_link 5f12aef9-0a3e-a658-e59c-e968a672c0c2 "Next" %}} »

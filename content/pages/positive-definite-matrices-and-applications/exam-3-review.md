@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Exam 3 Review
 uid: 832ceb87-f20f-cd83-981c-236a6c11e277
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link ab040c17-91a2-dbfe-0cb9-75cf0190634f "Previous" %}} | {{% resource_link 3921e359-ef46-ef69-930f-0c922b456485 "Next" %}} »

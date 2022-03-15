@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: The Geometry of Linear Equations
 uid: ee886403-2dd8-29b4-83a2-ae7dfeb2da55
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 34303ce1-9b45-7241-22d2-bd33d64df688 "Previous" %}} | {{% resource_link ff755187-ef48-26e2-abaf-b9c76026cfdb "Next" %}} »

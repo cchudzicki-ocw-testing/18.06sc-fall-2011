@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_Ses1.6sol.pdf
 uid: f4ae8cc2-b4f3-6574-983d-d4c313f106eb
+video_metadata:
+  youtube_id: null
 ---

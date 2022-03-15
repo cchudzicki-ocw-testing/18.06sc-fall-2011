@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Factorization into A = LU
 uid: 2817c81b-0904-0d03-c0c6-34f006d5a20d
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link c6606cdd-9775-d774-f694-cdc5e6c30381 "Previous" %}} | {{% resource_link 78c64d70-411e-e481-e2bb-d7a7244a0bf3 "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Change of Basis; Image Compression
 uid: 7b90bea0-f6ce-9bfd-c750-ada6103da88c
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 9b3392d9-9beb-d110-47c3-6d07bc404bbc "Previous" %}} | {{% resource_link ab040c17-91a2-dbfe-0cb9-75cf0190634f "Next" %}} »

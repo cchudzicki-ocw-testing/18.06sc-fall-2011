@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: d8efae91-2fd6-02f9-ac2e-2cb9d064d22e
+video_metadata:
+  youtube_id: null
 ---
 
 « [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/Syllabus/meet-the-tas) »

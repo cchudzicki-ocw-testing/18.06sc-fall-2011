@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Properties of Determinants
 uid: db45d276-fad6-eb49-f42e-287aaa9e22b6
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 2376f3e0-0c4d-e0f6-6346-53041d685aed "Previous" %}} | {{% resource_link 172571ec-1468-8c38-e3a6-02925af8e7d9 "Next" %}} »

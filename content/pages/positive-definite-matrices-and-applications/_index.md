@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit III: Positive Definite Matrices and Applications'
 uid: 34f596bc-2328-22be-5fba-75646f6970c5
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link afe66f8e-2c8a-f216-34f4-261b58ca7f09 "Previous" %}} | {{% resource_link 83daa789-4c9b-a2c7-ac6c-afe27aef0e1c "Next" %}} »

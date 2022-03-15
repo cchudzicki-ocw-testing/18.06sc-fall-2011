@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Orthogonal Matrices and Gram-Schmidt
 uid: 2376f3e0-0c4d-e0f6-6346-53041d685aed
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 5f12aef9-0a3e-a658-e59c-e968a672c0c2 "Previous" %}} | {{% resource_link db45d276-fad6-eb49-f42e-287aaa9e22b6 "Next" %}} »

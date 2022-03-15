@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Similar Matrices and Jordan Form
 uid: b358f2d2-8636-54b7-503b-47b34cc0953a
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Previous" %}} | {{% resource_link 30164ec6-9f85-8d02-0a13-78d8b9c366fe "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: d8efae91-2fd6-02f9-ac2e-2cb9d064d22e
 title: Meet the TAs
 uid: 451c7be3-3c2f-f17f-4881-adfa981fc5e7
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link d8efae91-2fd6-02f9-ac2e-2cb9d064d22e "Previous" %}} | {{% resource_link 34303ce1-9b45-7241-22d2-bd33d64df688 "Next" %}} »

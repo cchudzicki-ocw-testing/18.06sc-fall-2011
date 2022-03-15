@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Column Space and Nullspace
 uid: bb16f055-bb0c-2fa6-b00b-24a82c138877
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 78c64d70-411e-e481-e2bb-d7a7244a0bf3 "Previous" %}} | {{% resource_link 0689e9a0-f66b-a169-b57a-71e60e59cfa2 "Next" %}} »

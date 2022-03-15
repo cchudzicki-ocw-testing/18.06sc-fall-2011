@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_06SCF11_final_ex.pdf
 uid: 245582e7-bf82-2b1a-9928-9385d4b1fe1c
+video_metadata:
+  youtube_id: null
 ---

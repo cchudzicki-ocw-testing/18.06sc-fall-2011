@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf73d07a-c972-ab3c-450a-0f10d0be0664
 title: Determinant Formulas and Cofactors
 uid: 172571ec-1468-8c38-e3a6-02925af8e7d9
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link db45d276-fad6-eb49-f42e-287aaa9e22b6 "Previous" %}} | {{% resource_link 86cb2711-cb7c-4313-42de-c1540dfe8ce2 "Next" %}} »

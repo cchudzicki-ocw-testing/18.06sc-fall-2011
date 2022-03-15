@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Exam_1_Review.jpg
 uid: f893ffed-3564-39cd-4b5c-9dee6106d39a
+video_metadata:
+  youtube_id: null
 ---

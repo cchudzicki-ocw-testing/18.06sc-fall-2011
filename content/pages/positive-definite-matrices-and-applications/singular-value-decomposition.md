@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Singular Value Decomposition
 uid: 30164ec6-9f85-8d02-0a13-78d8b9c366fe
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link b358f2d2-8636-54b7-503b-47b34cc0953a "Previous" %}} | {{% resource_link 9b3392d9-9beb-d110-47c3-6d07bc404bbc "Next" %}} »

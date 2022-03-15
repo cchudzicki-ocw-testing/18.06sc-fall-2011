@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Left and Right Inverses; Pseudoinverse
 uid: ab040c17-91a2-dbfe-0cb9-75cf0190634f
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 7b90bea0-f6ce-9bfd-c750-ada6103da88c "Previous" %}} | {{% resource_link 832ceb87-f20f-cd83-981c-236a6c11e277 "Next" %}} »

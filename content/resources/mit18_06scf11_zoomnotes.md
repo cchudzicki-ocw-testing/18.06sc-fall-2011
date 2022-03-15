@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ZoomNotes for Linear Algebra
 uid: c501620f-128a-b205-bc26-7770934d707a
+video_metadata:
+  youtube_id: null
 ---

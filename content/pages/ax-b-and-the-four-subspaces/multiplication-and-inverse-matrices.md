@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: Multiplication and Inverse Matrices
 uid: c6606cdd-9775-d774-f694-cdc5e6c30381
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 060c0abf-f399-49c6-f5be-ff6291e747a5 "Previous" %}} | {{% resource_link 2817c81b-0904-0d03-c0c6-34f006d5a20d "Next" %}} »

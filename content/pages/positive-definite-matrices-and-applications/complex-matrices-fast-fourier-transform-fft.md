@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 34f596bc-2328-22be-5fba-75646f6970c5
 title: Complex Matrices; Fast Fourier Transform (FFT)
 uid: d2f78aa2-97e6-82cc-aea1-20a362c5d934
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 83daa789-4c9b-a2c7-ac6c-afe27aef0e1c "Previous" %}} | {{% resource_link c75e4546-e980-a4f3-4fba-9c17295b6b7b "Next" %}} »
