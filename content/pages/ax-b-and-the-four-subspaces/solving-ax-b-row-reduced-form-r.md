@@ -8,6 +8,8 @@ parent_type: CourseSection
 parent_uid: 34303ce1-9b45-7241-22d2-bd33d64df688
 title: 'Solving Ax = b: Row Reduced Form R'
 uid: 5fa61a8a-cb4b-ace2-b291-fa9364395075
+video_metadata:
+  youtube_id: null
 ---
 « {{% resource_link 0689e9a0-f66b-a169-b57a-71e60e59cfa2 "Previous" %}} | {{% resource_link f4986e82-13a7-cf7c-ebaa-aba5fa7882f0 "Next" %}} »
 
