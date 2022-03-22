@@ -8,7 +8,7 @@ uid: d8efae91-2fd6-02f9-ac2e-2cb9d064d22e
 video_metadata:
   youtube_id: null
 ---
-« \[Previous\]({{< baseurl >}}/) | \[Next\]({{< baseurl >}}/pages/Syllabus/meet-the-tas) »
+« [Previous](../) | {{% resource_link 451c7be3-3c2f-f17f-4881-adfa981fc5e7 "Next" %}} »
 
 ## Video Introduction by Professor Strang
 
@@ -94,4 +94,4 @@ The Help Session Videos were developed by:
 
 To learn more about each of the TA's, visit the [Meet the TAs](https://ocwnext.odl.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/meet-the-tas/). 
 
-« \[Previous\]({{< baseurl >}}/) | \[Next\]({{< baseurl >}}/pages/Syllabus/meet-the-tas) »
+« [Previous](../) | {{% resource_link 451c7be3-3c2f-f17f-4881-adfa981fc5e7 "Next" %}} »
