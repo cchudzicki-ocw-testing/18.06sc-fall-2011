@@ -61,7 +61,7 @@ This course, designed for independent study, has been organized to follow the se
 
 Each unit has been further divided into a sequence of sessions that cover an amount you might expect to complete in one sitting. Each session has a video lecture on the topic, accompanied by a lecture summary. For further study, there are suggested readings in Professor Strang's textbook (both the 4th and 5th editions):
 
- Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), February 2009. ISBN: 9780980232714
+Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), February 2009. ISBN: 9780980232714
 
 Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), February 2016. ISBN: 9780980232776
 
