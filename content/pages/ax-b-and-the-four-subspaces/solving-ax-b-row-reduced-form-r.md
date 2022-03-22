@@ -18,7 +18,7 @@ video_metadata:
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{< resource d914ed3b-6d96-85d2-b783-a4f40fe46f78 >}}
 {{< tdclose >}}{{< tdopen >}}
-We describe all solutions to _A_x = b based on the free variables and special solutions encoded in the reduced form _R_.
+We describe all solutions to _Ax = b based on the free variables and special solutions encoded in the reduced form R_.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Session Activities
