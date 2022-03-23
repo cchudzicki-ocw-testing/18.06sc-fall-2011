@@ -18,7 +18,7 @@ video_metadata:
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{< resource a9a3121e-445d-27ee-7f5d-c1e92968e07e >}}
 {{< tdclose >}}{{< tdopen >}}
-If _A_ has _n_ independent eigenvectors, we can write _A_ =_S_Λ_S_{{< sup "−1" >}}, where Λ is a diagonal matrix containing the eigenvalues of _A_. This allows us to easily compute powers of _A_ which in turn allows us to solve difference equations u{{< sub "k+1" >}} = Au{{< sub "k" >}}.
+If _A_ has _n_ independent eigenvectors, we can write A =SΛS{{< sup "−1" >}}, where Λ is a diagonal matrix containing the eigenvalues of _A_. This allows us to easily compute powers of _A_ which in turn allows us to solve difference equations u{{< sub "k+1" >}} = Au{{< sub "k" >}}.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Session Activities
