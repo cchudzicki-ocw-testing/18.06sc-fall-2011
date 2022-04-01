@@ -92,6 +92,6 @@ The Help Session Videos were developed by:
 - David Shirokoff
 - Nikola Kamburov
 
-To learn more about each of the TA's, visit the [Meet the TAs](https://ocwnext.odl.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/meet-the-tas/). 
+To learn more about each of the TA's, visit the [Meet the TAs](/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/meet-the-tas/). 
 
 « [Previous](../../) | {{% resource_link 451c7be3-3c2f-f17f-4881-adfa981fc5e7 "Next" %}} »
