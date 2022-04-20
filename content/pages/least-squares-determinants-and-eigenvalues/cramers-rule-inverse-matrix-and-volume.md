@@ -18,7 +18,7 @@ video_metadata:
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{< resource 1828f1c4-85c0-38a6-6897-65143db8b90e >}}
 {{< tdclose >}}{{< tdopen >}}
-Now we start to use the determinant. Understanding the cofactor formula allows us to show that _A_{{< sup "\\-1" >}} = (1/detA)_C_{{< sup "T" >}}, where _C_ is the matrix of cofactors of _A_. Combining this formula with the equation x = A{{< sup "\\-1" >}}b gives us Cramer's rule for solving Ax = b. Also, the absolute value of the determinant gives the volume of a box.
+Now we start to use the determinant. Understanding the cofactor formula allows us to show that _A_{{< sup "\-1" >}} = (1/detA)_C_{{< sup "T" >}}, where _C_ is the matrix of cofactors of _A_. Combining this formula with the equation x = A{{< sup "\-1" >}}b gives us Cramer's rule for solving Ax = b. Also, the absolute value of the determinant gives the volume of a box.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Session Activities
