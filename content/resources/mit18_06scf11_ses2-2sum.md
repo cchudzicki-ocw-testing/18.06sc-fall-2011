@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to projections onto subspaces.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/00e9c8f0eafedeab21a3d079a17ed3d8_MIT18_06SCF11_Ses2.2sum.pdf
+file: /courses/18-06sc-linear-algebra-fall-2011/00e9c8f0eafedeab21a3d079a17ed3d8_MIT18_06SCF11_Ses2.2sum.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,4 @@ uid: 00e9c8f0-eafe-deab-21a3-d079a17ed3d8
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to projections onto subspaces.

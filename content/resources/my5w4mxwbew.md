@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/44ecd302de6fee32877c179b339ca873_My5w4MXWBew.srt
+file: /courses/18-06sc-linear-algebra-fall-2011/44ecd302de6fee32877c179b339ca873_My5w4MXWBew.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

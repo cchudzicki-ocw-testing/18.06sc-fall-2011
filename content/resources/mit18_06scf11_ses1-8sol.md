@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem sets related to solving
   Ax = b and row reduced form R.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/d85abdc57e0c75fbb35cb9e25263294f_MIT18_06SCF11_Ses1.8sol.pdf
+file: /courses/18-06sc-linear-algebra-fall-2011/d85abdc57e0c75fbb35cb9e25263294f_MIT18_06SCF11_Ses1.8sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -15,3 +15,4 @@ uid: d85abdc5-7e0c-75fb-b35c-b9e25263294f
 video_metadata:
   youtube_id: null
 ---
+This resource contains solution to the problem sets related to solving Ax = b and row reduced form R.

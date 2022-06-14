@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problem sets related to solving Ax = 0: pivot
   variables, special solutions.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/67a97b58e4ee19bfe2ac57ab94cddff8_MIT18_06SCF11_Ses1.7prob.pdf
+file: /courses/18-06sc-linear-algebra-fall-2011/67a97b58e4ee19bfe2ac57ab94cddff8_MIT18_06SCF11_Ses1.7prob.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -15,3 +15,4 @@ uid: 67a97b58-e4ee-19bf-e2ac-57ab94cddff8
 video_metadata:
   youtube_id: null
 ---
+This resource contains problem sets related to solving Ax = 0: pivot variables, special solutions.

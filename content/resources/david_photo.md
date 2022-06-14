@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/6209c27d7560bd32ef38618739bb8dd2_David_Photo.jpg
+file: /courses/18-06sc-linear-algebra-fall-2011/6209c27d7560bd32ef38618739bb8dd2_David_Photo.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

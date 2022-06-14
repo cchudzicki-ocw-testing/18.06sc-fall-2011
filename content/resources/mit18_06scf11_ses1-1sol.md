@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution to the problem sets related to the geometry
   of linear equations.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-06sc-linear-algebra-fall-2011/290a5d857d2a51bf21d4eebf05905620_MIT18_06SCF11_Ses1.1sol.pdf
+file: /courses/18-06sc-linear-algebra-fall-2011/290a5d857d2a51bf21d4eebf05905620_MIT18_06SCF11_Ses1.1sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -15,3 +15,4 @@ uid: 290a5d85-7d2a-51bf-21d4-eebf05905620
 video_metadata:
   youtube_id: null
 ---
+This resource contains solution to the problem sets related to the geometry of linear equations.
