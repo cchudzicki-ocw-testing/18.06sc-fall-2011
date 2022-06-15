@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the third unit of the course: positive definite
+  matrices and applications.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit III: Positive Definite Matrices and Applications'

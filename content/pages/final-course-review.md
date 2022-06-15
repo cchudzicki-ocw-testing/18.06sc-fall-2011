@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a review for the final exam, lecture video and
+  summary, and a problem solving video.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Course Review

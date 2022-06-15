@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review materials for the third exam of the course,
+  covering the understanding of matrices through their eigenvalues.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Positive Definite Matrices and Applications'

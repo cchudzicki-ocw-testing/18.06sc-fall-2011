@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the second unit of the course: least squares,
+  determinants, and eigenvalues.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit II: Least Squares, Determinants and Eigenvalues'

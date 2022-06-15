@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information and links to related courses by Professor
+  Strang
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
