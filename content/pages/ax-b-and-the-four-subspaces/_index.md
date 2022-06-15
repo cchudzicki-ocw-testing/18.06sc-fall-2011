@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the first unit of the course: Ax = b and the four
+  subspaces.'
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

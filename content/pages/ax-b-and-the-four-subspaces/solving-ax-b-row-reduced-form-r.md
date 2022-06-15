@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section provides a lesson on solving Ax = b: row reduced form R.'
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
