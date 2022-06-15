@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a lesson on diagonalization and powers of A.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

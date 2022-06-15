@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a video introduction to the course, a
+  course overview, and information on prerequisites, course goals, format, and the
+  team.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
