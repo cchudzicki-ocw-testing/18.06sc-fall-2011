@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section Professor Gilbert Strang describes various aspects of
+  how he teaches 18.06 Linear Algebra.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
