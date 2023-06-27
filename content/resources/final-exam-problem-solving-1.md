@@ -4,6 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
+file_size: ''
 file_type: ''
 image_metadata:
   caption: ''
@@ -11,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Exams
+- Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
