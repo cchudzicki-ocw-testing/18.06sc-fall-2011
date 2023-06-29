@@ -32,3 +32,4 @@ video_files:
 video_metadata:
   youtube_id: YzZUIYRCE38
 ---
+Vectors are discussed in terms of orthogonal bases as well as the Four Fundamental Subspaces.
