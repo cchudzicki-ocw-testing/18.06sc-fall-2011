@@ -32,3 +32,4 @@ video_files:
 video_metadata:
   youtube_id: J7DzL2_Na80
 ---
+This video talks about the geometry of linear equations. The lecture presents three ways of thinking about these systems such as the "row method" as well as the "column method and the "matrix method."
